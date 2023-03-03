@@ -2,8 +2,10 @@
 
 CSS resembling the LaTeX document appearance
 
-# Copyright
+## Author
 
-This work is unlicensed, see [Unlicense.org][99] for details.
+Copyright &copy; 2002 [Mikołaj Bartnicki][98]<br>
+Distributed under the terms of [MIT License][99]
 
-[99]: https://unlicense.org
+[98]: mailto://mikolaj@bartnicki.org
+[99]: https://github.com/mbrtnck/vimfiles/blob/main/LICENSE.txt
